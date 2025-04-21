@@ -2,7 +2,7 @@
 
 A drag-and-drop outfit composition tool built with Next.js, React, and Tailwind CSS that allows users to visually create clothing combinations.
 
-![Outfit Builder Screenshot](./public/screenshot.png) *(Add your screenshot image)*
+
 
 ## Features ✨
 
